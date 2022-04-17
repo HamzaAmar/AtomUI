@@ -1,0 +1,9 @@
+{
+  "name": "atomUI",
+  "version": "1.0.0",
+  "description": "ATOMUI is design system for react ",
+  "main": "index.js",
+  "repository": "https://github.com/HamzaAmar/AtomUI.git",
+  "author": "Hamza Miloud Amar <hamzamiloudamar@gmail.com>",
+  "license": "MIT"
+}
